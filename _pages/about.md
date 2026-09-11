@@ -10,10 +10,10 @@ AIGC:
   ContentProducer: '001191110102MAD55U9H0F10002'
   ContentPropagator: '001191110102MAD55U9H0F10002'
   Label: '1'
-  ProduceID: '3aa16bee-0c75-4215-a4f0-440b4d4888d6'
-  PropagateID: '3aa16bee-0c75-4215-a4f0-440b4d4888d6'
-  ReservedCode1: 'c6eba455-b96d-4d16-baee-a0f459e131fb'
-  ReservedCode2: 'c6eba455-b96d-4d16-baee-a0f459e131fb'
+  ProduceID: '77484db4-7826-423e-8544-64d4d1e0cf1f'
+  PropagateID: '77484db4-7826-423e-8544-64d4d1e0cf1f'
+  ReservedCode1: 'e5a2336f-7f6e-4e97-b395-542aca8b7914'
+  ReservedCode2: 'e5a2336f-7f6e-4e97-b395-542aca8b7914'
 ---
 
 {% if site.google_scholar_stats_use_cdn %}
@@ -50,8 +50,8 @@ My research interest includes multimodal understanding and embedding, covering v
 </div>
 
 <div style="display: flex; align-items: center; gap: 28px; margin: 1.6rem 0 2.2rem 0;">
-  <div style="flex: 0 0 160px; text-align: center;">
-    <img src="images/neu_logo.png" alt="Northeastern University" style="height: 56px; width: auto;">
+  <div style="flex: 0 0 220px; text-align: center;">
+    <img src="images/neu_logo.png" alt="Northeastern University" style="width: 210px; height: auto;">
   </div>
   <div style="flex: 1;">
     <p style="margin: 0; font-size: 1.05em;"><strong>Northeastern University</strong> (东北大学)</p>
@@ -83,7 +83,7 @@ My research interest includes multimodal understanding and embedding, covering v
 
 <div style="display: flex; align-items: center; gap: 28px; margin: 1.6rem 0 2.2rem 0;">
   <div style="flex: 0 0 160px; text-align: center;">
-    <img src="images/kuaishou.png" alt="Kuaishou" style="height: 56px; width: auto;">
+    <img src="images/kuaishou_logo.png" alt="Kuaishou" style="height: 64px; width: auto;">
   </div>
   <div style="flex: 1;">
     <p style="margin: 0; font-size: 1.05em;"><strong>Kuaishou Technology</strong> (快手科技)</p>
