@@ -8,7 +8,7 @@
 # Site Settings
 title                    : "Hang Cheng"
 description              : "I am currently pursuing the M.Sc. degree at Tsinghua Shenzhen International Graduate School, Tsinghua University "
-repository               : "RayeRen/acad-homepage.github.io"
+repository               : "Unsail/unsail.github.io"
 google_scholar_stats_use_cdn : true
 
 # google analytics
@@ -24,11 +24,11 @@ author:
   name             : "Hang Cheng (程航)"
   avatar           : "images/android-chrome-512x512.png"
   bio              : "Tsinghua University"
-  location         : "Beijing, China"
+  location         : "Shenzhen, China"
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=YOUR_GOOGLE_SCHOLAR_ID"
-  email            : "chenhan14@mails.tsinghua.edu.cn"
+  googlescholar    : "https://scholar.google.com/citations?user=DPvWtDcAAAAJ"
+  email            : "chenghan24@mails.tsinghua.edu.cn"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -37,7 +37,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : # e.g., "github username"
+  github           : "Unsail"
   google_plus      :
   keybase          :
   instagram        :
