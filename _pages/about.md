@@ -10,10 +10,10 @@ AIGC:
   ContentProducer: '001191110102MAD55U9H0F10002'
   ContentPropagator: '001191110102MAD55U9H0F10002'
   Label: '1'
-  ProduceID: 'f1dd2321-e460-44ec-a7dc-c702e661fae9'
-  PropagateID: 'f1dd2321-e460-44ec-a7dc-c702e661fae9'
-  ReservedCode1: '5f874ac1-9f55-4d3a-9315-d980f08e90bc'
-  ReservedCode2: '5f874ac1-9f55-4d3a-9315-d980f08e90bc'
+  ProduceID: '3aa16bee-0c75-4215-a4f0-440b4d4888d6'
+  PropagateID: '3aa16bee-0c75-4215-a4f0-440b4d4888d6'
+  ReservedCode1: 'c6eba455-b96d-4d16-baee-a0f459e131fb'
+  ReservedCode2: 'c6eba455-b96d-4d16-baee-a0f459e131fb'
 ---
 
 {% if site.google_scholar_stats_use_cdn %}
@@ -38,13 +38,58 @@ My research interest includes multimodal understanding and embedding, covering v
 - *2025.10*: &nbsp;🎉🎉 SDGraph paper released on arXiv.
 
 # 📖 Educations
-- <img src="images/tsinghua.svg" alt="Tsinghua University" style="height: 20px; vertical-align: middle;"> *2024.09 - 2027.06 (expected)*, Master, Institute of Data and Information, Tsinghua Shenzhen International Graduate School, Tsinghua University, Shenzhen.
-- <img src="images/neu.png" alt="Northeastern University" style="height: 20px; vertical-align: middle;"> *2020.09 - 2024.06*, Undergraduate (Rank 1/55), School of Mechanical Engineering and Automation, Northeastern University, Shenyang.
+
+<div style="display: flex; align-items: center; gap: 28px; margin: 1.6rem 0 2.2rem 0;">
+  <div style="flex: 0 0 160px; text-align: center;">
+    <img src="images/tsinghua.svg" alt="Tsinghua University" style="height: 56px; width: auto;">
+  </div>
+  <div style="flex: 1;">
+    <p style="margin: 0; font-size: 1.05em;"><strong>Tsinghua University</strong> (清华大学)</p>
+    <p style="margin: 6px 0 0 0; color: #666;"><em>2024.09 - 2027.06 (expected)</em> · Master, Institute of Data and Information, Tsinghua Shenzhen International Graduate School, Shenzhen</p>
+  </div>
+</div>
+
+<div style="display: flex; align-items: center; gap: 28px; margin: 1.6rem 0 2.2rem 0;">
+  <div style="flex: 0 0 160px; text-align: center;">
+    <img src="images/neu_logo.png" alt="Northeastern University" style="height: 56px; width: auto;">
+  </div>
+  <div style="flex: 1;">
+    <p style="margin: 0; font-size: 1.05em;"><strong>Northeastern University</strong> (东北大学)</p>
+    <p style="margin: 6px 0 0 0; color: #666;"><em>2020.09 - 2024.06</em> · Undergraduate (Rank 1/55), School of Mechanical Engineering and Automation, Shenyang</p>
+  </div>
+</div>
 
 # 💻 Internships
-- <img src="images/teleai.svg" alt="TeleAI" style="height: 20px; vertical-align: middle;"> *2026.08 - now*, Research Intern, TeleAI - Xingchen AGI Lab (TeleAI 星辰AGI实验室), Multimodal LLM Algorithm, Beijing.
-- <img src="images/nio.svg" alt="NIO" style="height: 20px; vertical-align: middle;"> *2026.07 - 2026.08*, Algorithm Intern, NIO (蔚来), World Model & Foundation Model, World Model Algorithm, Beijing.
-- <img src="images/kuaishou.png" alt="Kuaishou" style="height: 20px; vertical-align: middle;"> *2026.04 - 2026.07*, Research Intern, Kuaishou Technology (快手科技), Foundation Model and Applications Dept., Beijing.
+
+<div style="display: flex; align-items: center; gap: 28px; margin: 1.6rem 0 2.2rem 0;">
+  <div style="flex: 0 0 160px; text-align: center;">
+    <img src="images/teleai_logo.png" alt="TeleAI" style="height: 64px; width: auto;">
+  </div>
+  <div style="flex: 1;">
+    <p style="margin: 0; font-size: 1.05em;"><strong>TeleAI - Xingchen AGI Lab</strong> (中国电信人工智能研究院·星辰AGI实验室)</p>
+    <p style="margin: 6px 0 0 0; color: #666;"><em>2026.08 - now</em> · Research Intern, Multimodal LLM Algorithm, Beijing</p>
+  </div>
+</div>
+
+<div style="display: flex; align-items: center; gap: 28px; margin: 1.6rem 0 2.2rem 0;">
+  <div style="flex: 0 0 160px; text-align: center;">
+    <img src="images/nio.svg" alt="NIO" style="height: 56px; width: auto;">
+  </div>
+  <div style="flex: 1;">
+    <p style="margin: 0; font-size: 1.05em;"><strong>NIO</strong> (蔚来)</p>
+    <p style="margin: 6px 0 0 0; color: #666;"><em>2026.07 - 2026.08</em> · Algorithm Intern, World Model &amp; Foundation Model, World Model Algorithm, Beijing</p>
+  </div>
+</div>
+
+<div style="display: flex; align-items: center; gap: 28px; margin: 1.6rem 0 2.2rem 0;">
+  <div style="flex: 0 0 160px; text-align: center;">
+    <img src="images/kuaishou.png" alt="Kuaishou" style="height: 56px; width: auto;">
+  </div>
+  <div style="flex: 1;">
+    <p style="margin: 0; font-size: 1.05em;"><strong>Kuaishou Technology</strong> (快手科技)</p>
+    <p style="margin: 6px 0 0 0; color: #666;"><em>2026.04 - 2026.07</em> · Research Intern, Foundation Model and Applications Dept., Beijing</p>
+  </div>
+</div>
 
 # 📝 Publications
 
@@ -172,3 +217,4 @@ Bowen Tan, Ruiyang Chen, Muyan He, Renze Zhang, Xiang Lu, **Hang Cheng**, Jing Z
 - *2022.08*: First Prize, 10th National College Student Optoelectronic Design Competition (Northeast Region) (第十届全国大学生光电设计竞赛东北区赛, 省部级一等奖).
 - *2022.05*: First Prize, 2023 Liaoning Provincial College Student Computer Design Contest (2023年辽宁省大学生计算机设计竞赛, 省部级一等奖).
 
+> AI生成
