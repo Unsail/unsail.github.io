@@ -10,10 +10,10 @@ AIGC:
   ContentProducer: '001191110102MAD55U9H0F10002'
   ContentPropagator: '001191110102MAD55U9H0F10002'
   Label: '1'
-  ProduceID: '3c7efc4e-9b6f-4c2f-9b9d-8b2ea5b70c9a'
-  PropagateID: '3c7efc4e-9b6f-4c2f-9b9d-8b2ea5b70c9a'
-  ReservedCode1: '81578cfa-acae-425a-b883-cf784d737d26'
-  ReservedCode2: '81578cfa-acae-425a-b883-cf784d737d26'
+  ProduceID: 'bcd16090-f1bb-439c-95c3-fc08bf9229fd'
+  PropagateID: 'bcd16090-f1bb-439c-95c3-fc08bf9229fd'
+  ReservedCode1: '386aa62c-828e-4d73-8673-7eb986553225'
+  ReservedCode2: '386aa62c-828e-4d73-8673-7eb986553225'
 ---
 
 {% if site.google_scholar_stats_use_cdn %}
@@ -25,9 +25,9 @@ AIGC:
 
 <span class='anchor' id='about-me'></span>
 
-I am currently pursuing the M.Sc. degree at Institute of Data and Information of Tsinghua Shenzhen International Graduate School, Tsinghua University (清华大学), advised by [Long Zeng (曾龙)](https://jackyzengl.github.io/). Before that, I have received a bachelor's degree from School of Mechanical Engineering and Automation, Northeastern University (东北大学机械工程与自动化学院) in 2024.
+I am currently pursuing the M.Sc. degree at Institute of Data and Information of Tsinghua Shenzhen International Graduate School, Tsinghua University, advised by [Long Zeng](https://jackyzengl.github.io/). Before that, I received a bachelor's degree from School of Mechanical Engineering and Automation, Northeastern University in 2024.
 
-My research interest includes multimodal understanding and embedding, covering video retrieval, sketch-based 3D retrieval, and multimodal representation learning. I have published papers at CIKM, AAAI, IEEE Sensors Journal, and Neurocomputing ([Google Scholar](https://scholar.google.com/citations?user=DPvWtDcAAAAJ&hl=en)<a href='https://scholar.google.com/citations?user=DPvWtDcAAAAJ&hl=en'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo="></a>).
+My research interest includes multimodal understanding and embedding, covering video retrieval, sketch-based 3D retrieval, and multimodal representation learning. I have published multiple papers at top-tier conferences and journals ([Google Scholar](https://scholar.google.com/citations?user=DPvWtDcAAAAJ&hl=en)<a href='https://scholar.google.com/citations?user=DPvWtDcAAAAJ&hl=en'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo="></a>).
 
 <span style="color: #007bff;">**I am actively seeking Ph.D. positions for Fall 2027.**</span> Feel free to reach out if my research background aligns with your group!
 
@@ -44,7 +44,7 @@ My research interest includes multimodal understanding and embedding, covering v
     <img src="images/tsinghua.svg" alt="Tsinghua University" style="height: 56px; width: auto;">
   </div>
   <div style="flex: 1;">
-    <p style="margin: 0; font-size: 1.05em;"><strong>Tsinghua University</strong> (清华大学)</p>
+    <p style="margin: 0; font-size: 1.05em;"><strong>Tsinghua University</strong></p>
     <p style="margin: 6px 0 0 0; color: #666;"><em>2024.09 - 2027.06 (expected)</em> · Master, Institute of Data and Information, Tsinghua Shenzhen International Graduate School, Shenzhen</p>
   </div>
 </div>
@@ -54,7 +54,7 @@ My research interest includes multimodal understanding and embedding, covering v
     <img src="images/neu_logo.png" alt="Northeastern University" style="width: 150px; height: auto;">
   </div>
   <div style="flex: 1;">
-    <p style="margin: 0; font-size: 1.05em;"><strong>Northeastern University</strong> (东北大学)</p>
+    <p style="margin: 0; font-size: 1.05em;"><strong>Northeastern University</strong></p>
     <p style="margin: 6px 0 0 0; color: #666;"><em>2020.09 - 2024.06</em> · Undergraduate (Rank 1/55), School of Mechanical Engineering and Automation, Shenyang</p>
   </div>
 </div>
@@ -66,7 +66,7 @@ My research interest includes multimodal understanding and embedding, covering v
     <img src="images/teleai_logo.png" alt="TeleAI" style="height: 64px; width: auto;">
   </div>
   <div style="flex: 1;">
-    <p style="margin: 0; font-size: 1.05em;"><strong>TeleAI - Xingchen AGI Lab</strong> (中国电信人工智能研究院·星辰AGI实验室)</p>
+    <p style="margin: 0; font-size: 1.05em;"><strong>TeleAI - Xingchen AGI Lab</strong></p>
     <p style="margin: 6px 0 0 0; color: #666;"><em>2026.08 - now</em> · Research Intern, Multimodal LLM Algorithm, Beijing</p>
   </div>
 </div>
@@ -76,7 +76,7 @@ My research interest includes multimodal understanding and embedding, covering v
     <img src="images/nio.svg" alt="NIO" style="height: 56px; width: auto;">
   </div>
   <div style="flex: 1;">
-    <p style="margin: 0; font-size: 1.05em;"><strong>NIO</strong> (蔚来)</p>
+    <p style="margin: 0; font-size: 1.05em;"><strong>NIO</strong></p>
     <p style="margin: 6px 0 0 0; color: #666;"><em>2026.07 - 2026.08</em> · Algorithm Intern, World Model &amp; Foundation Model, World Model Algorithm, Beijing</p>
   </div>
 </div>
@@ -86,40 +86,12 @@ My research interest includes multimodal understanding and embedding, covering v
     <img src="images/kuaishou_logo.png" alt="Kuaishou" style="height: 44px; width: auto;">
   </div>
   <div style="flex: 1;">
-    <p style="margin: 0; font-size: 1.05em;"><strong>Kuaishou Technology</strong> (快手科技)</p>
+    <p style="margin: 0; font-size: 1.05em;"><strong>Kuaishou Technology</strong></p>
     <p style="margin: 6px 0 0 0; color: #666;"><em>2026.04 - 2026.07</em> · Research Intern, Foundation Model and Applications Dept., Beijing</p>
   </div>
 </div>
 
 # 📝 Publications
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CIKM 2026 Oral</div><img src='images/MVHGNN.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[Multi-View Hierarchical Graph Neural Network for Sketch-Based 3D Shape Retrieval](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=DPvWtDcAAAAJ&citation_for_view=DPvWtDcAAAAJ:qjMakFHDy7sC)
-
-**Hang Cheng**, Muyan He, Mingyu Fan, Chi Xie, XiCheng, Long Zeng
-
-[**Scholar**](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=DPvWtDcAAAAJ&citation_for_view=DPvWtDcAAAAJ:qjMakFHDy7sC) <strong><span class='show_paper_citations' data='DPvWtDcAAAAJ:qjMakFHDy7sC'></span></strong>
-
-- Accepted as Oral at CIKM 2026. A multi-view hierarchical graph neural network for sketch-based 3D shape retrieval, achieving state-of-the-art retrieval performance.
-
-</div>
-</div>
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Neurocomputing 2026</div><img src='images/MAANet.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[MAANet: A lightweight multi-axis adaptation network for efficient image super-resolution](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=DPvWtDcAAAAJ&citation_for_view=DPvWtDcAAAAJ:zYLM7Y9cAGgC)
-
-Muyan He, **Hang Cheng**, Xin Di, Yubin Xiao, Yunqiang Ma, Zhen Wang
-
-[**Scholar**](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=DPvWtDcAAAAJ&citation_for_view=DPvWtDcAAAAJ:zYLM7Y9cAGgC) <strong><span class='show_paper_citations' data='DPvWtDcAAAAJ:zYLM7Y9cAGgC'></span></strong>
-
-- A lightweight multi-axis adaptation network for efficient image super-resolution, published in Neurocomputing (JCR Q1).
-
-</div>
-</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2026</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -135,6 +107,20 @@ Chenghao Zhang, Hanyu Zhao, **Hang Cheng**, Tengfei Pan, Long Zeng
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CIKM 2026 Oral</div><img src='images/MVHGNN.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Multi-View Hierarchical Graph Neural Network for Sketch-Based 3D Shape Retrieval](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=DPvWtDcAAAAJ&citation_for_view=DPvWtDcAAAAJ:qjMakFHDy7sC)
+
+**Hang Cheng**, Muyan He, Mingyu Fan, Chi Xie, XiCheng, Long Zeng
+
+[**Scholar**](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=DPvWtDcAAAAJ&citation_for_view=DPvWtDcAAAAJ:qjMakFHDy7sC) <strong><span class='show_paper_citations' data='DPvWtDcAAAAJ:qjMakFHDy7sC'></span></strong>
+
+- Accepted as Oral at CIKM 2026. A multi-view hierarchical graph neural network for sketch-based 3D shape retrieval, achieving state-of-the-art retrieval performance.
+
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2026</div><img src='images/Diff.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -145,6 +131,20 @@ Chenghao Zhang, Hanyu Zhao, **Hang Cheng**, Tengfei Pan, Long Zeng
 [**Scholar**](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=DPvWtDcAAAAJ&citation_for_view=DPvWtDcAAAAJ:UeHWp8X0CEIC) <strong><span class='show_paper_citations' data='DPvWtDcAAAAJ:UeHWp8X0CEIC'></span></strong>
 
 - A Stable Diffusion-based latent generative retrieval framework for zero-shot sketch-based 3D shape retrieval, achieving state-of-the-art performance.
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Neurocomputing 2026</div><img src='images/MAANet.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[MAANet: A lightweight multi-axis adaptation network for efficient image super-resolution](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=DPvWtDcAAAAJ&citation_for_view=DPvWtDcAAAAJ:zYLM7Y9cAGgC)
+
+Muyan He, **Hang Cheng**, Xin Di, Yubin Xiao, Yunqiang Ma, Zhen Wang
+
+[**Scholar**](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=DPvWtDcAAAAJ&citation_for_view=DPvWtDcAAAAJ:zYLM7Y9cAGgC) <strong><span class='show_paper_citations' data='DPvWtDcAAAAJ:zYLM7Y9cAGgC'></span></strong>
+
+- A lightweight multi-axis adaptation network for efficient image super-resolution, published in Neurocomputing (JCR Q1).
 
 </div>
 </div>
