@@ -10,10 +10,10 @@ AIGC:
   ContentProducer: '001191110102MAD55U9H0F10002'
   ContentPropagator: '001191110102MAD55U9H0F10002'
   Label: '1'
-  ProduceID: 'bcd16090-f1bb-439c-95c3-fc08bf9229fd'
-  PropagateID: 'bcd16090-f1bb-439c-95c3-fc08bf9229fd'
-  ReservedCode1: '386aa62c-828e-4d73-8673-7eb986553225'
-  ReservedCode2: '386aa62c-828e-4d73-8673-7eb986553225'
+  ProduceID: '4ecca7b8-eb4c-4f07-9367-ae362e5ee71c'
+  PropagateID: '4ecca7b8-eb4c-4f07-9367-ae362e5ee71c'
+  ReservedCode1: '3c2a5eba-f7e6-4d42-a9ea-193e8c679ce3'
+  ReservedCode2: '3c2a5eba-f7e6-4d42-a9ea-193e8c679ce3'
 ---
 
 {% if site.google_scholar_stats_use_cdn %}
@@ -32,8 +32,8 @@ My research interest includes multimodal understanding and embedding, covering v
 <span style="color: #007bff;">**I am actively seeking Ph.D. positions for Fall 2027.**</span> Feel free to reach out if my research background aligns with your group!
 
 # 🔥 News
-- *2026.09*: &nbsp;🎉🎉 One paper accepted as **Oral** to CIKM 2026.
-- *2026.04*: &nbsp;🎉🎉 One paper on world-model-guided post-training of VLA models (WISE) released on arXiv.
+- *2026.09*: &nbsp;🎉🎉 One paper on world-model-guided post-training of VLA models (WISE) released on arXiv.
+- *2026.08*: &nbsp;🎉🎉 One paper accepted as **Oral** to CIKM 2026.
 - *2026.02*: &nbsp;🎉🎉 One paper on zero-shot sketch-based 3D retrieval (Diff-SBSR) released on arXiv.
 - *2025.10*: &nbsp;🎉🎉 SDGraph paper released on arXiv.
 
@@ -93,7 +93,7 @@ My research interest includes multimodal understanding and embedding, covering v
 
 # 📝 Publications
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2026</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2026</div><img src='images/WISE.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [WISE: World-model-guided Imagination Scheduling for Efficient Post-training of Vision-Language-Action Models](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=DPvWtDcAAAAJ&citation_for_view=DPvWtDcAAAAJ:Tyk-4Ss8FVUC)
@@ -163,7 +163,7 @@ XiCheng, Pingfa Feng, Mingyu Fan, Zhichao Liao, **Hang Cheng**, Long Zeng
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE SJ 2023</div><img src='images/WS2.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE SJ 2023</div><img src='images/WS2_CuO.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Multiple Photo-Excited NH3 Gas Sensors Based on WS2/CuO Heterostructures With High Sensitivity and Reliable Anti-Humidity Ability](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=DPvWtDcAAAAJ&citation_for_view=DPvWtDcAAAAJ:9yKSN-GCB0IC)
