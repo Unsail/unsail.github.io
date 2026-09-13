@@ -10,10 +10,10 @@ AIGC:
   ContentProducer: '001191110102MAD55U9H0F10002'
   ContentPropagator: '001191110102MAD55U9H0F10002'
   Label: '1'
-  ProduceID: '4ecca7b8-eb4c-4f07-9367-ae362e5ee71c'
-  PropagateID: '4ecca7b8-eb4c-4f07-9367-ae362e5ee71c'
-  ReservedCode1: '3c2a5eba-f7e6-4d42-a9ea-193e8c679ce3'
-  ReservedCode2: '3c2a5eba-f7e6-4d42-a9ea-193e8c679ce3'
+  ProduceID: 'a865c23f-6260-4090-ad13-5235176791be'
+  PropagateID: 'a865c23f-6260-4090-ad13-5235176791be'
+  ReservedCode1: '14f39038-9827-421b-a54c-2baa2d474b91'
+  ReservedCode2: '14f39038-9827-421b-a54c-2baa2d474b91'
 ---
 
 {% if site.google_scholar_stats_use_cdn %}
@@ -32,6 +32,7 @@ My research interest includes multimodal understanding and embedding, covering v
 <span style="color: #007bff;">**I am actively seeking Ph.D. positions for Fall 2027.**</span> Feel free to reach out if my research background aligns with your group!
 
 # 🔥 News
+- *2026.09*: &nbsp;🎉🎉 New paper on retrieval-grounded reasoning for universal multimodal embeddings (Reason What Matters) coming soon on arXiv.
 - *2026.09*: &nbsp;🎉🎉 One paper on world-model-guided post-training of VLA models (WISE) released on arXiv.
 - *2026.08*: &nbsp;🎉🎉 One paper accepted as **Oral** to CIKM 2026.
 - *2026.02*: &nbsp;🎉🎉 One paper on zero-shot sketch-based 3D retrieval (Diff-SBSR) released on arXiv.
@@ -93,6 +94,20 @@ My research interest includes multimodal understanding and embedding, covering v
 
 # 📝 Publications
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2026</div><img src='images/reason.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+Reason What Matters: Retrieval-Grounded Reasoning for Universal Multimodal Embeddings <span style="color: #c7254e;">[**First &amp; Co-first author**]</span>
+
+Mingzhou Jiang*, Peixi Wu*, **Hang Cheng***, et al.
+
+* Equal Contribution
+
+- Retrieval-grounded reasoning for universal multimodal embeddings. (coming soon on arXiv)
+
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2026</div><img src='images/WISE.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -140,7 +155,9 @@ Chenghao Zhang, Hanyu Zhao, **Hang Cheng**, Tengfei Pan, Long Zeng
 
 [MAANet: A lightweight multi-axis adaptation network for efficient image super-resolution](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=DPvWtDcAAAAJ&citation_for_view=DPvWtDcAAAAJ:zYLM7Y9cAGgC)
 
-Muyan He, **Hang Cheng**, Xin Di, Yubin Xiao, Yunqiang Ma, Zhen Wang
+Muyan He*, **Hang Cheng***, Xin Di, Yubin Xiao, Yunqiang Ma, Zhen Wang
+
+* Equal Contribution
 
 [**Scholar**](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=DPvWtDcAAAAJ&citation_for_view=DPvWtDcAAAAJ:zYLM7Y9cAGgC) <strong><span class='show_paper_citations' data='DPvWtDcAAAAJ:zYLM7Y9cAGgC'></span></strong>
 
