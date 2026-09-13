@@ -10,10 +10,10 @@ AIGC:
   ContentProducer: '001191110102MAD55U9H0F10002'
   ContentPropagator: '001191110102MAD55U9H0F10002'
   Label: '1'
-  ProduceID: 'a865c23f-6260-4090-ad13-5235176791be'
-  PropagateID: 'a865c23f-6260-4090-ad13-5235176791be'
-  ReservedCode1: '14f39038-9827-421b-a54c-2baa2d474b91'
-  ReservedCode2: '14f39038-9827-421b-a54c-2baa2d474b91'
+  ProduceID: '604a60d9-4c8d-4e7c-ab62-a2799c8c27cd'
+  PropagateID: '604a60d9-4c8d-4e7c-ab62-a2799c8c27cd'
+  ReservedCode1: '0f1295b5-899b-4130-92da-c48bbcc284cb'
+  ReservedCode2: '0f1295b5-899b-4130-92da-c48bbcc284cb'
 ---
 
 {% if site.google_scholar_stats_use_cdn %}
@@ -97,7 +97,7 @@ My research interest includes multimodal understanding and embedding, covering v
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2026</div><img src='images/reason.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-Reason What Matters: Retrieval-Grounded Reasoning for Universal Multimodal Embeddings <span style="color: #c7254e;">[**First &amp; Co-first author**]</span>
+Reason What Matters: Retrieval-Grounded Reasoning for Universal Multimodal Embeddings [Co-first author]
 
 Mingzhou Jiang*, Peixi Wu*, **Hang Cheng***, et al.
 
@@ -153,7 +153,7 @@ Chenghao Zhang, Hanyu Zhao, **Hang Cheng**, Tengfei Pan, Long Zeng
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Neurocomputing 2026</div><img src='images/MAANet.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[MAANet: A lightweight multi-axis adaptation network for efficient image super-resolution](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=DPvWtDcAAAAJ&citation_for_view=DPvWtDcAAAAJ:zYLM7Y9cAGgC)
+[MAANet: A lightweight multi-axis adaptation network for efficient image super-resolution](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=DPvWtDcAAAAJ&citation_for_view=DPvWtDcAAAAJ:zYLM7Y9cAGgC) [Co-first author]
 
 Muyan He*, **Hang Cheng***, Xin Di, Yubin Xiao, Yunqiang Ma, Zhen Wang
 
