@@ -215,7 +215,6 @@ Bowen Tan, Ruiyang Chen, Muyan He, Renze Zhang, Xiang Lu, **Hang Cheng**, Jing Z
 - *2024*: Outstanding Graduate of Liaoning Province (辽宁省优秀毕业生).
 - *2024*: May Fourth Medal / Top 10 Undergraduates of Northeastern University (五四奖章 / 东北大学十佳本科生, the highest undergraduate honor).
 - *2024*: Baosteel Scholarship (宝钢奖学金, awarded to only 4 students university-wide).
-- *2023.04*: National Innovation and Entrepreneurship Training Program ("基于二硫化钨微纳敏感材料的光激发型高灵敏电子鼻", project leader), concluded with Outstanding Academic Innovation Award (优秀结题).
 
 **National Competitions**
 - *2023.11*: Second Prize, 18th "Challenge Cup" National Competition (第十八届"挑战杯"全国大学生课外学术科技作品竞赛, 国家级二等奖).
@@ -233,5 +232,3 @@ Bowen Tan, Ruiyang Chen, Muyan He, Renze Zhang, Xiang Lu, **Hang Cheng**, Jing Z
 - *2022.12*: First Prize, 2022 "TI Cup" Liaoning Provincial Electronic Design Contest (2022年"TI杯"辽宁省大学生电子设计竞赛, 省部级一等奖).
 - *2022.08*: First Prize, 10th National College Student Optoelectronic Design Competition (Northeast Region) (第十届全国大学生光电设计竞赛东北区赛, 省部级一等奖).
 - *2022.05*: First Prize, 2023 Liaoning Provincial College Student Computer Design Contest (2023年辽宁省大学生计算机设计竞赛, 省部级一等奖).
-
-> AI生成
