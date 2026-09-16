@@ -10,10 +10,10 @@ AIGC:
   ContentProducer: '001191110102MAD55U9H0F10002'
   ContentPropagator: '001191110102MAD55U9H0F10002'
   Label: '1'
-  ProduceID: '2e005002-c346-40a8-8b9b-de546f397029'
-  PropagateID: '2e005002-c346-40a8-8b9b-de546f397029'
-  ReservedCode1: 'b8273bc0-d36e-4eb6-9fd2-ff45f41e6916'
-  ReservedCode2: 'b8273bc0-d36e-4eb6-9fd2-ff45f41e6916'
+  ProduceID: 'aad68a3f-0f37-44aa-91e8-8203a30fcff8'
+  PropagateID: 'aad68a3f-0f37-44aa-91e8-8203a30fcff8'
+  ReservedCode1: '76c6a209-0903-427b-b40b-1eb873fe9c8b'
+  ReservedCode2: '76c6a209-0903-427b-b40b-1eb873fe9c8b'
 ---
 
 {% if site.google_scholar_stats_use_cdn %}
@@ -99,7 +99,7 @@ My research interest includes **<span style="color: #007bff;">multimodal retriev
 
 [Reason What Matters: Retrieval-Grounded Reasoning for Universal Multimodal Embeddings](https://arxiv.org/abs/2609.15296) [Co-first author]
 
-Mingzhou Jiang*, Peixi Wu*, <strong style="color: #007bff;">Hang Cheng</strong>*, et al.
+Mingzhou Jiang\*, Peixi Wu\*, <strong style="color: #007bff;">Hang Cheng</strong>\*, et al.
 
 * Equal Contribution
 
@@ -155,7 +155,7 @@ Chenghao Zhang, Hanyu Zhao, <strong style="color: #007bff;">Hang Cheng</strong>,
 
 [MAANet: A lightweight multi-axis adaptation network for efficient image super-resolution](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=DPvWtDcAAAAJ&citation_for_view=DPvWtDcAAAAJ:zYLM7Y9cAGgC) [Co-first author]
 
-Muyan He*, <strong style="color: #007bff;">Hang Cheng</strong>*, Xin Di, Yubin Xiao, Yunqiang Ma, Zhen Wang
+Muyan He\*, <strong style="color: #007bff;">Hang Cheng</strong>\*, Xin Di, Yubin Xiao, Yunqiang Ma, Zhen Wang
 
 * Equal Contribution
 
