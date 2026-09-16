@@ -10,10 +10,10 @@ AIGC:
   ContentProducer: '001191110102MAD55U9H0F10002'
   ContentPropagator: '001191110102MAD55U9H0F10002'
   Label: '1'
-  ProduceID: '7db1545a-1b5d-4837-b432-d85425d90439'
-  PropagateID: '7db1545a-1b5d-4837-b432-d85425d90439'
-  ReservedCode1: 'd8467a3d-602b-4ad2-ab4d-2f8a4e1088a9'
-  ReservedCode2: 'd8467a3d-602b-4ad2-ab4d-2f8a4e1088a9'
+  ProduceID: '2e005002-c346-40a8-8b9b-de546f397029'
+  PropagateID: '2e005002-c346-40a8-8b9b-de546f397029'
+  ReservedCode1: 'b8273bc0-d36e-4eb6-9fd2-ff45f41e6916'
+  ReservedCode2: 'b8273bc0-d36e-4eb6-9fd2-ff45f41e6916'
 ---
 
 {% if site.google_scholar_stats_use_cdn %}
@@ -25,7 +25,7 @@ AIGC:
 
 <span class='anchor' id='about-me'></span>
 
-I am currently pursuing the M.Sc. degree at Institute of Data and Information of Tsinghua Shenzhen International Graduate School, Tsinghua University, advised by [Long Zeng](https://jackyzengl.github.io/). Before that, I received a bachelor's degree from School of Mechanical Engineering and Automation, Northeastern University in 2024.
+I am currently pursuing the M.Sc. degree at Institute of Data and Information of Tsinghua Shenzhen International Graduate School, Tsinghua University, advised by [Long Zeng](https://jackyzengl.github.io/). Before that, I received a bachelor's degree from Northeastern University in 2024.
 
 My research interest includes **<span style="color: #007bff;">multimodal retrieval</span>**, **<span style="color: #007bff;">multimodal understanding</span>**, and **<span style="color: #007bff;">sketch-based 3D CAD retrieval</span>**. I have published multiple papers at top-tier conferences and journals (<!-- [Google Scholar](https://scholar.google.com/citations?user=DPvWtDcAAAAJ&hl=en)<a href='https://scholar.google.com/citations?user=DPvWtDcAAAAJ&hl=en'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo="></a> -->).
 
@@ -171,7 +171,7 @@ Muyan He*, <strong style="color: #007bff;">Hang Cheng</strong>*, Xin Di, Yubin X
 
 [SDGraph: Multi-Level Sketch Representation Learning by Sparse-Dense Graph Architecture](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=DPvWtDcAAAAJ&citation_for_view=DPvWtDcAAAAJ:IjCSPb-OGe4C)
 
-XiCheng, Pingfa Feng, Mingyu Fan, Zhichao Liao, **Hang Cheng**, Long Zeng
+XiCheng, Pingfa Feng, Mingyu Fan, Zhichao Liao, <strong style="color: #007bff;">Hang Cheng</strong>, Long Zeng
 
 [**Scholar**](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=DPvWtDcAAAAJ&citation_for_view=DPvWtDcAAAAJ:IjCSPb-OGe4C) <strong><span class='show_paper_citations' data='DPvWtDcAAAAJ:IjCSPb-OGe4C'></span></strong>
 
