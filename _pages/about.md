@@ -10,10 +10,10 @@ AIGC:
   ContentProducer: '001191110102MAD55U9H0F10002'
   ContentPropagator: '001191110102MAD55U9H0F10002'
   Label: '1'
-  ProduceID: '604a60d9-4c8d-4e7c-ab62-a2799c8c27cd'
-  PropagateID: '604a60d9-4c8d-4e7c-ab62-a2799c8c27cd'
-  ReservedCode1: '0f1295b5-899b-4130-92da-c48bbcc284cb'
-  ReservedCode2: '0f1295b5-899b-4130-92da-c48bbcc284cb'
+  ProduceID: '7db1545a-1b5d-4837-b432-d85425d90439'
+  PropagateID: '7db1545a-1b5d-4837-b432-d85425d90439'
+  ReservedCode1: 'd8467a3d-602b-4ad2-ab4d-2f8a4e1088a9'
+  ReservedCode2: 'd8467a3d-602b-4ad2-ab4d-2f8a4e1088a9'
 ---
 
 {% if site.google_scholar_stats_use_cdn %}
@@ -27,12 +27,12 @@ AIGC:
 
 I am currently pursuing the M.Sc. degree at Institute of Data and Information of Tsinghua Shenzhen International Graduate School, Tsinghua University, advised by [Long Zeng](https://jackyzengl.github.io/). Before that, I received a bachelor's degree from School of Mechanical Engineering and Automation, Northeastern University in 2024.
 
-My research interest includes multimodal understanding and embedding, covering video retrieval, sketch-based 3D retrieval, and multimodal representation learning. I have published multiple papers at top-tier conferences and journals ([Google Scholar](https://scholar.google.com/citations?user=DPvWtDcAAAAJ&hl=en)<a href='https://scholar.google.com/citations?user=DPvWtDcAAAAJ&hl=en'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo="></a>).
+My research interest includes **<span style="color: #007bff;">multimodal retrieval</span>**, **<span style="color: #007bff;">multimodal understanding</span>**, and **<span style="color: #007bff;">sketch-based 3D CAD retrieval</span>**. I have published multiple papers at top-tier conferences and journals (<!-- [Google Scholar](https://scholar.google.com/citations?user=DPvWtDcAAAAJ&hl=en)<a href='https://scholar.google.com/citations?user=DPvWtDcAAAAJ&hl=en'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo="></a> -->).
 
 <span style="color: #007bff;">**I am actively seeking Ph.D. positions for Fall 2027.**</span> Feel free to reach out if my research background aligns with your group!
 
 # 🔥 News
-- *2026.09*: &nbsp;🎉🎉 New paper on retrieval-grounded reasoning for universal multimodal embeddings (Reason What Matters) coming soon on arXiv.
+- *2026.09*: &nbsp;🎉🎉 New paper on retrieval-grounded reasoning for universal multimodal embeddings (Reason What Matters) released on arXiv.
 - *2026.09*: &nbsp;🎉🎉 One paper on world-model-guided post-training of VLA models (WISE) released on arXiv.
 - *2026.08*: &nbsp;🎉🎉 One paper accepted as **Oral** to CIKM 2026.
 - *2026.02*: &nbsp;🎉🎉 One paper on zero-shot sketch-based 3D retrieval (Diff-SBSR) released on arXiv.
@@ -56,7 +56,7 @@ My research interest includes multimodal understanding and embedding, covering v
   </div>
   <div style="flex: 1;">
     <p style="margin: 0; font-size: 1.05em;"><strong>Northeastern University</strong></p>
-    <p style="margin: 6px 0 0 0; color: #666;"><em>2020.09 - 2024.06</em> · Undergraduate (Rank 1/55), School of Mechanical Engineering and Automation, Shenyang</p>
+    <p style="margin: 6px 0 0 0; color: #666;"><em>2020.09 - 2024.06</em> · Undergraduate (<strong style="color: #007bff;">Rank 1/55</strong>), School of Mechanical Engineering and Automation, Shenyang</p>
   </div>
 </div>
 
@@ -97,13 +97,13 @@ My research interest includes multimodal understanding and embedding, covering v
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2026</div><img src='images/reason.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-Reason What Matters: Retrieval-Grounded Reasoning for Universal Multimodal Embeddings [Co-first author]
+[Reason What Matters: Retrieval-Grounded Reasoning for Universal Multimodal Embeddings](https://arxiv.org/abs/2609.15296) [Co-first author]
 
-Mingzhou Jiang*, Peixi Wu*, **Hang Cheng***, et al.
+Mingzhou Jiang*, Peixi Wu*, <strong style="color: #007bff;">Hang Cheng</strong>*, et al.
 
 * Equal Contribution
 
-- Retrieval-grounded reasoning for universal multimodal embeddings. (coming soon on arXiv)
+- Retrieval-grounded reasoning for universal multimodal embeddings.
 
 </div>
 </div>
@@ -113,7 +113,7 @@ Mingzhou Jiang*, Peixi Wu*, **Hang Cheng***, et al.
 
 [WISE: World-model-guided Imagination Scheduling for Efficient Post-training of Vision-Language-Action Models](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=DPvWtDcAAAAJ&citation_for_view=DPvWtDcAAAAJ:Tyk-4Ss8FVUC)
 
-Chenghao Zhang, Hanyu Zhao, **Hang Cheng**, Tengfei Pan, Long Zeng
+Chenghao Zhang, Hanyu Zhao, <strong style="color: #007bff;">Hang Cheng</strong>, Tengfei Pan, Long Zeng
 
 [**Scholar**](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=DPvWtDcAAAAJ&citation_for_view=DPvWtDcAAAAJ:Tyk-4Ss8FVUC) <strong><span class='show_paper_citations' data='DPvWtDcAAAAJ:Tyk-4Ss8FVUC'></span></strong>
 
@@ -127,7 +127,7 @@ Chenghao Zhang, Hanyu Zhao, **Hang Cheng**, Tengfei Pan, Long Zeng
 
 [Multi-View Hierarchical Graph Neural Network for Sketch-Based 3D Shape Retrieval](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=DPvWtDcAAAAJ&citation_for_view=DPvWtDcAAAAJ:qjMakFHDy7sC)
 
-**Hang Cheng**, Muyan He, Mingyu Fan, Chi Xie, XiCheng, Long Zeng
+<strong style="color: #007bff;">Hang Cheng</strong>, Muyan He, Mingyu Fan, Chi Xie, XiCheng, Long Zeng
 
 [**Scholar**](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=DPvWtDcAAAAJ&citation_for_view=DPvWtDcAAAAJ:qjMakFHDy7sC) <strong><span class='show_paper_citations' data='DPvWtDcAAAAJ:qjMakFHDy7sC'></span></strong>
 
@@ -141,7 +141,7 @@ Chenghao Zhang, Hanyu Zhao, **Hang Cheng**, Tengfei Pan, Long Zeng
 
 [Diff-SBSR: Learning Multimodal Feature-Enhanced Diffusion Models for Zero-Shot Sketch-Based 3D Shape Retrieval](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=DPvWtDcAAAAJ&citation_for_view=DPvWtDcAAAAJ:UeHWp8X0CEIC)
 
-**Hang Cheng**, Fan Dong, Long Zeng
+<strong style="color: #007bff;">Hang Cheng</strong>, Fan Dong, Long Zeng
 
 [**Scholar**](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=DPvWtDcAAAAJ&citation_for_view=DPvWtDcAAAAJ:UeHWp8X0CEIC) <strong><span class='show_paper_citations' data='DPvWtDcAAAAJ:UeHWp8X0CEIC'></span></strong>
 
@@ -155,7 +155,7 @@ Chenghao Zhang, Hanyu Zhao, **Hang Cheng**, Tengfei Pan, Long Zeng
 
 [MAANet: A lightweight multi-axis adaptation network for efficient image super-resolution](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=DPvWtDcAAAAJ&citation_for_view=DPvWtDcAAAAJ:zYLM7Y9cAGgC) [Co-first author]
 
-Muyan He*, **Hang Cheng***, Xin Di, Yubin Xiao, Yunqiang Ma, Zhen Wang
+Muyan He*, <strong style="color: #007bff;">Hang Cheng</strong>*, Xin Di, Yubin Xiao, Yunqiang Ma, Zhen Wang
 
 * Equal Contribution
 
@@ -185,7 +185,7 @@ XiCheng, Pingfa Feng, Mingyu Fan, Zhichao Liao, **Hang Cheng**, Long Zeng
 
 [Multiple Photo-Excited NH3 Gas Sensors Based on WS2/CuO Heterostructures With High Sensitivity and Reliable Anti-Humidity Ability](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=DPvWtDcAAAAJ&citation_for_view=DPvWtDcAAAAJ:9yKSN-GCB0IC)
 
-Bowen Tan, Ruiyang Chen, Muyan He, Renze Zhang, Xiang Lu, **Hang Cheng**, Jing Zhou, Zhenyu Yuan
+Bowen Tan, Ruiyang Chen, Muyan He, Renze Zhang, Xiang Lu, <strong style="color: #007bff;">Hang Cheng</strong>, Jing Zhou, Zhenyu Yuan
 
 [**Scholar**](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=DPvWtDcAAAAJ&citation_for_view=DPvWtDcAAAAJ:9yKSN-GCB0IC) <strong><span class='show_paper_citations' data='DPvWtDcAAAAJ:9yKSN-GCB0IC'></span></strong>
 
@@ -199,11 +199,11 @@ Bowen Tan, Ruiyang Chen, Muyan He, Renze Zhang, Xiang Lu, **Hang Cheng**, Jing Z
 
 [WS2 Gas Sensor Based on Photothermocatalytic Effect for Ammonia Detection With High Response](https://ieeexplore.ieee.org/document/9950486)
 
-**Hang Cheng**, Weixin Liu, Ruiyang Chen, Bowen Tan, Muyan He, Renze Zhang, Botao Liu, Zhenyu Yuan
+<strong style="color: #007bff;">Hang Cheng</strong>, Weixin Liu, Ruiyang Chen, Bowen Tan, Muyan He, Renze Zhang, Botao Liu, Zhenyu Yuan
 
 [**Scholar**](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=DPvWtDcAAAAJ&citation_for_view=DPvWtDcAAAAJ:u5HHmVD_uO8C) <strong><span class='show_paper_citations' data='DPvWtDcAAAAJ:u5HHmVD_uO8C'></span></strong>
 
-- WS2 gas sensor based on photothermocatalytic effect for ammonia detection with high response (Top 1% Highlighted Paper, IEEE Sensors Journal).
+- WS2 gas sensor based on photothermocatalytic effect for ammonia detection with high response (<strong style="color: #007bff;">Top 1%</strong> Highlighted Paper, IEEE Sensors Journal).
 
 </div>
 </div>
@@ -213,8 +213,8 @@ Bowen Tan, Ruiyang Chen, Muyan He, Renze Zhang, Xiang Lu, **Hang Cheng**, Jing Z
 **Honors**
 - *2024*: Shenyang Model University Student (沈阳市模范大学生).
 - *2024*: Outstanding Graduate of Liaoning Province (辽宁省优秀毕业生).
-- *2024*: May Fourth Medal / Top 10 Undergraduates of Northeastern University (五四奖章 / 东北大学十佳本科生, the highest undergraduate honor).
-- *2024*: Baosteel Scholarship (宝钢奖学金, awarded to only 4 students university-wide).
+- *2024*: May Fourth Medal / <strong style="color: #007bff;">Top 10</strong> Undergraduates of Northeastern University (五四奖章 / 东北大学十佳本科生, the highest undergraduate honor).
+- *2024*: Baosteel Scholarship (宝钢奖学金, awarded to <strong style="color: #007bff;">only 4 students</strong> university-wide).
 
 **National Competitions**
 - *2023.11*: Second Prize, 18th "Challenge Cup" National Competition (第十八届"挑战杯"全国大学生课外学术科技作品竞赛, 国家级二等奖).
@@ -232,3 +232,5 @@ Bowen Tan, Ruiyang Chen, Muyan He, Renze Zhang, Xiang Lu, **Hang Cheng**, Jing Z
 - *2022.12*: First Prize, 2022 "TI Cup" Liaoning Provincial Electronic Design Contest (2022年"TI杯"辽宁省大学生电子设计竞赛, 省部级一等奖).
 - *2022.08*: First Prize, 10th National College Student Optoelectronic Design Competition (Northeast Region) (第十届全国大学生光电设计竞赛东北区赛, 省部级一等奖).
 - *2022.05*: First Prize, 2023 Liaoning Provincial College Student Computer Design Contest (2023年辽宁省大学生计算机设计竞赛, 省部级一等奖).
+
+> AI生成
