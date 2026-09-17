@@ -232,5 +232,3 @@ Bowen Tan, Ruiyang Chen, Muyan He, Renze Zhang, Xiang Lu, <strong style="color: 
 - *2022.12*: First Prize, 2022 "TI Cup" Liaoning Provincial Electronic Design Contest (2022年"TI杯"辽宁省大学生电子设计竞赛, 省部级一等奖).
 - *2022.08*: First Prize, 10th National College Student Optoelectronic Design Competition (Northeast Region) (第十届全国大学生光电设计竞赛东北区赛, 省部级一等奖).
 - *2022.05*: First Prize, 2023 Liaoning Provincial College Student Computer Design Contest (2023年辽宁省大学生计算机设计竞赛, 省部级一等奖).
-
-> AI生成
