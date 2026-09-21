@@ -10,10 +10,10 @@ AIGC:
   ContentProducer: '001191110102MAD55U9H0F10002'
   ContentPropagator: '001191110102MAD55U9H0F10002'
   Label: '1'
-  ProduceID: 'aad68a3f-0f37-44aa-91e8-8203a30fcff8'
-  PropagateID: 'aad68a3f-0f37-44aa-91e8-8203a30fcff8'
-  ReservedCode1: '76c6a209-0903-427b-b40b-1eb873fe9c8b'
-  ReservedCode2: '76c6a209-0903-427b-b40b-1eb873fe9c8b'
+  ProduceID: '9140be8b-6c3f-4188-a8f8-646f0575713e'
+  PropagateID: '9140be8b-6c3f-4188-a8f8-646f0575713e'
+  ReservedCode1: '82dc9033-3778-4645-8a00-9454c340b1f4'
+  ReservedCode2: '82dc9033-3778-4645-8a00-9454c340b1f4'
 ---
 
 {% if site.google_scholar_stats_use_cdn %}
@@ -32,6 +32,7 @@ My research interest includes **<span style="color: #007bff;">multimodal retriev
 <span style="color: #007bff;">**I am actively seeking Ph.D. positions for Fall 2027.**</span> Feel free to reach out if my research background aligns with your group!
 
 # 🔥 News
+- *2026.09*: &nbsp;🎉🎉 New paper on training-free 3D point cloud adaptation (Refine Then Fusion) released on arXiv.
 - *2026.09*: &nbsp;🎉🎉 New paper on retrieval-grounded reasoning for universal multimodal embeddings (Reason What Matters) released on arXiv.
 - *2026.09*: &nbsp;🎉🎉 One paper on world-model-guided post-training of VLA models (WISE) released on arXiv.
 - *2026.08*: &nbsp;🎉🎉 One paper accepted as **Oral** to CIKM 2026.
@@ -94,6 +95,18 @@ My research interest includes **<span style="color: #007bff;">multimodal retriev
 
 # 📝 Publications
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2026</div><img src='images/refine_fusion.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Refine Then Fusion: Training-Free 3D Point Cloud Adaptation with Priority Refinement and Multi-Modal Knowledge Fusion](https://arxiv.org/abs/2609.21522)
+
+<strong style="color: #007bff;">Hang Cheng</strong>, Yan Chen, Mingyu Fan, Long Zeng
+
+- Training-free few-shot 3D point cloud recognition via priority refinement and reliability-aware multi-modal knowledge fusion.
+
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2026</div><img src='images/reason.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -117,7 +130,7 @@ Chenghao Zhang, Hanyu Zhao, <strong style="color: #007bff;">Hang Cheng</strong>,
 
 [**Scholar**](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=DPvWtDcAAAAJ&citation_for_view=DPvWtDcAAAAJ:Tyk-4Ss8FVUC) <strong><span class='show_paper_citations' data='DPvWtDcAAAAJ:Tyk-4Ss8FVUC'></span></strong>
 
-- World-model-guided imagination scheduling for efficient post-training of vision-language-action models. (placeholder image, to be replaced)
+- World-model-guided imagination scheduling for efficient post-training of vision-language-action models.
 
 </div>
 </div>
@@ -232,3 +245,5 @@ Bowen Tan, Ruiyang Chen, Muyan He, Renze Zhang, Xiang Lu, <strong style="color: 
 - *2022.12*: First Prize, 2022 "TI Cup" Liaoning Provincial Electronic Design Contest (2022年"TI杯"辽宁省大学生电子设计竞赛, 省部级一等奖).
 - *2022.08*: First Prize, 10th National College Student Optoelectronic Design Competition (Northeast Region) (第十届全国大学生光电设计竞赛东北区赛, 省部级一等奖).
 - *2022.05*: First Prize, 2023 Liaoning Provincial College Student Computer Design Contest (2023年辽宁省大学生计算机设计竞赛, 省部级一等奖).
+
+> AI生成
