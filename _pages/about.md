@@ -78,7 +78,7 @@ My research interest includes **<span style="color: #007bff;">multimodal retriev
     <img src="images/nio.svg" alt="NIO" style="height: 56px; width: auto;">
   </div>
   <div style="flex: 1;">
-    <p style="margin: 0; font-size: 1.05em;"><strong>NIO</strong></p>
+    <p style="margin: 0; font-size: 1.05em;"><strong>NIO - World Models and Foundation Models Team</strong></p>
     <p style="margin: 6px 0 0 0; color: #666;"><em>2026.07 - 2026.08</em> · Algorithm Intern, World Model &amp; Foundation Model, World Model Algorithm, Beijing</p>
   </div>
 </div>
@@ -88,7 +88,7 @@ My research interest includes **<span style="color: #007bff;">multimodal retriev
     <img src="images/kuaishou_logo.png" alt="Kuaishou" style="height: 44px; width: auto;">
   </div>
   <div style="flex: 1;">
-    <p style="margin: 0; font-size: 1.05em;"><strong>Kuaishou Technology</strong></p>
+    <p style="margin: 0; font-size: 1.05em;"><strong>Kuaishou - Foundation Models and Applications Department</strong></p>
     <p style="margin: 6px 0 0 0; color: #666;"><em>2026.04 - 2026.07</em> · Research Intern, Foundation Model and Applications Dept., Beijing</p>
   </div>
 </div>
@@ -245,5 +245,3 @@ Bowen Tan, Ruiyang Chen, Muyan He, Renze Zhang, Xiang Lu, <strong style="color: 
 - *2022.12*: First Prize, 2022 "TI Cup" Liaoning Provincial Electronic Design Contest (2022年"TI杯"辽宁省大学生电子设计竞赛, 省部级一等奖).
 - *2022.08*: First Prize, 10th National College Student Optoelectronic Design Competition (Northeast Region) (第十届全国大学生光电设计竞赛东北区赛, 省部级一等奖).
 - *2022.05*: First Prize, 2023 Liaoning Provincial College Student Computer Design Contest (2023年辽宁省大学生计算机设计竞赛, 省部级一等奖).
-
-> AI生成
