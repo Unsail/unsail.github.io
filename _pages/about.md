@@ -10,10 +10,10 @@ AIGC:
   ContentProducer: '001191110102MAD55U9H0F10002'
   ContentPropagator: '001191110102MAD55U9H0F10002'
   Label: '1'
-  ProduceID: '9140be8b-6c3f-4188-a8f8-646f0575713e'
-  PropagateID: '9140be8b-6c3f-4188-a8f8-646f0575713e'
-  ReservedCode1: '82dc9033-3778-4645-8a00-9454c340b1f4'
-  ReservedCode2: '82dc9033-3778-4645-8a00-9454c340b1f4'
+  ProduceID: 'a65c58d9-a469-477c-925a-dac2369609cf'
+  PropagateID: 'a65c58d9-a469-477c-925a-dac2369609cf'
+  ReservedCode1: '6b23c37a-6e1b-48dd-a01a-787556769335'
+  ReservedCode2: '6b23c37a-6e1b-48dd-a01a-787556769335'
 ---
 
 {% if site.google_scholar_stats_use_cdn %}
@@ -32,6 +32,7 @@ My research interest includes **<span style="color: #007bff;">multimodal retriev
 <span style="color: #007bff;">**I am actively seeking Ph.D. positions for Fall 2027.**</span> Feel free to reach out if my research background aligns with your group!
 
 # 🔥 News
+- *2026.09*: &nbsp;🎉🎉 New paper on visual agent harness for parametric CAD modeling (Vision2CAD) released on arXiv.
 - *2026.09*: &nbsp;🎉🎉 New paper on training-free 3D point cloud adaptation (Refine Then Fusion) released on arXiv.
 - *2026.09*: &nbsp;🎉🎉 New paper on retrieval-grounded reasoning for universal multimodal embeddings (Reason What Matters) released on arXiv.
 - *2026.09*: &nbsp;🎉🎉 One paper on world-model-guided post-training of VLA models (WISE) released on arXiv.
@@ -94,6 +95,18 @@ My research interest includes **<span style="color: #007bff;">multimodal retriev
 </div>
 
 # 📝 Publications
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2026</div><img src='images/vision2cad.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Vision2CAD: A Visual Agent Harness for Explicit Geometry Referencing and Localization in Parametric CAD Modeling](https://arxiv.org/abs/2609.22688)
+
+Xi Cheng, Chenxi Zhai, <strong style="color: #007bff;">Hang Cheng</strong>, Mingyu Fan, Pingfa Feng, Long Zeng
+
+- A visual agent harness combining VLM reasoning with deterministic CAD kernel operations for explicit geometry referencing and localization in parametric CAD modeling.
+
+</div>
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2026</div><img src='images/refine_fusion.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -245,3 +258,5 @@ Bowen Tan, Ruiyang Chen, Muyan He, Renze Zhang, Xiang Lu, <strong style="color: 
 - *2022.12*: First Prize, 2022 "TI Cup" Liaoning Provincial Electronic Design Contest (2022年"TI杯"辽宁省大学生电子设计竞赛, 省部级一等奖).
 - *2022.08*: First Prize, 10th National College Student Optoelectronic Design Competition (Northeast Region) (第十届全国大学生光电设计竞赛东北区赛, 省部级一等奖).
 - *2022.05*: First Prize, 2023 Liaoning Provincial College Student Computer Design Contest (2023年辽宁省大学生计算机设计竞赛, 省部级一等奖).
+
+> AI生成
