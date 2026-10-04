@@ -10,10 +10,10 @@ AIGC:
   ContentProducer: '001191110102MAD55U9H0F10002'
   ContentPropagator: '001191110102MAD55U9H0F10002'
   Label: '1'
-  ProduceID: 'a65c58d9-a469-477c-925a-dac2369609cf'
-  PropagateID: 'a65c58d9-a469-477c-925a-dac2369609cf'
-  ReservedCode1: '6b23c37a-6e1b-48dd-a01a-787556769335'
-  ReservedCode2: '6b23c37a-6e1b-48dd-a01a-787556769335'
+  ProduceID: '8e699ba4-7727-4229-938c-4e6c10c5fad7'
+  PropagateID: '8e699ba4-7727-4229-938c-4e6c10c5fad7'
+  ReservedCode1: 'aecd7cde-ef97-459f-bb6f-5a8a58141b8c'
+  ReservedCode2: 'aecd7cde-ef97-459f-bb6f-5a8a58141b8c'
 ---
 
 {% if site.google_scholar_stats_use_cdn %}
@@ -32,6 +32,7 @@ My research interest includes **<span style="color: #007bff;">multimodal retriev
 <span style="color: #007bff;">**I am actively seeking Ph.D. positions for Fall 2027.**</span> Feel free to reach out if my research background aligns with your group!
 
 # 🔥 News
+- *2026.09*: &nbsp;🎉🎉 New paper on constraint-aware image-to-CAD generation (ConCAD) released on arXiv.
 - *2026.09*: &nbsp;🎉🎉 New paper on visual agent harness for parametric CAD modeling (Vision2CAD) released on arXiv.
 - *2026.09*: &nbsp;🎉🎉 New paper on training-free 3D point cloud adaptation (Refine Then Fusion) released on arXiv.
 - *2026.09*: &nbsp;🎉🎉 New paper on retrieval-grounded reasoning for universal multimodal embeddings (Reason What Matters) released on arXiv.
@@ -95,6 +96,18 @@ My research interest includes **<span style="color: #007bff;">multimodal retriev
 </div>
 
 # 📝 Publications
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2026</div><img src='images/concad.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[ConCAD: Constraint-Aware Image-to-CAD Generation with Dual-Granularity Rewards](https://arxiv.org/abs/2609.34494)
+
+Chenxi Zhai, Xi Cheng, <strong style="color: #007bff;">Hang Cheng</strong>, Zhicheng Guan, Mingyu Fan, Yanzhe Tang, Pingfa Feng, Long Zeng
+
+- A constraint-aware image-to-CAD generation framework optimized via GRPO with dual-granularity rewards, achieving state-of-the-art IoU, Chamfer Distance, and geometric constraint satisfaction on DeepCAD and Zero2CAD.
+
+</div>
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2026</div><img src='images/vision2cad.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
